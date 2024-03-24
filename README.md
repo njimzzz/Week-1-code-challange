@@ -1,11 +1,11 @@
-# (Project Name)
+# (Grade Assign)
 
-#### Date, 2018/09/14
+#### Date, 2024/03/24
 
-#### By *Hamida Mstafa Mohamed*
+#### By *Kyle Njima*
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
+Code assigns students grades are assigned according to the marks they have aquired.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
@@ -15,7 +15,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+
 
 ```
 
@@ -23,15 +23,13 @@ Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
 [Git](gh-pages link)
 
 ## Technologies used
-HTML
-CSS
-Github
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+Phone No : 0113720062
+Email No : kyle.njima@students.moringaschool.com
 
 ### License
 The content of this site is licensed under the MIT license
-Copyright (c) 2018.
+Copyright (c) 2024.
 
